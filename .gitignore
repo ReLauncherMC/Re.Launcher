@@ -457,3 +457,5 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 /src/Gml.Launcher/FodyWeavers.xml
+/src/Gml.Launcher/.avalonia-build-tasks
+/src/L1.Avalonia.Gif/.avalonia-build-tasks
